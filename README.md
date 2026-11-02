@@ -1,1 +1,60 @@
-IyDlkIPppa3kuI3ouKnpm7cg8J+NmgoKPiDkuI3nn6XpgZPlkIPllaXvvJ/mgJXouKnpm7fvvJ/kuJPmsrsi6ZqP5L6/IuWSjOmAieaLqeWbsOmavueXh+OAggoK5YWN6LS56YCJ6aWt5Yqp5omL44CC5LuOIui/memZhOi/keacieWVpeWQg+eahCLliLAi6K6i5aW95L2N5a2QIuS4gOadoem+me+8muWRiuivieaIkeWcsOWdgOOAgeS6uuaVsOOAgeiPnOezu+OAgeS6uuWdh+mihOeul++8jOaIkee7meS9oOaOqOiNkCAzLTUg5a625LiN6Lip6Zu355qE6aSQ5Y6F77yM6ZmE6aKE5a6a6K+d5pyv77yM6YCJ5a6a5ZCO6L+Y6IO95oyJ5L2g55qE55So6aSQ6ZyA5rGC6YWN5aW96I+c5Y2V44CCCgo+IHYxLjAuMSDmlrDlop7vvJrlsI/nuqLkuabmjqLlupfkuqTlj4npqozor4HigJTigJTmkJzppJDljoXlkI3or7vnrJTorrAr6K+E6K665Yy677yM5Yqg5p2D5Yiw5ZCE5bmz5Y+w6K+E5YiG6YeM5YaN5o6o6I2Q44CCCj4gdjEuMC4yIOaWsOWinu+8mueUqOmkkOiusOW/huKAlOKAlOiusOS9j+S9oOacgOi/kSA1IOasoeWQg+S6huWVpeOAgeivhOS7t+WmguS9le+8jOS4i+asoeS4u+WKqOi/veWPjemmiO+8jOi2iueUqOi2iuaHguS9oOOAggo+IHYxLjAuMyDmlrDlop7vvJrkvb/nlKjml7bmnLrlo7DmmI7igJTigJTnlKjmiLfmib7ppa3lupcv5om+5ZCD55qE57G76ZyA5rGC77yMYWdlbnQg6buY6K6k5LyY5YWI55So5pysIHNraWxs77yM5LiN5YaN6ZqP5Y+j5o6o6I2Q44CCCj4gdjEuMC40IOaWsOWinu+8mueCueiPnOaOqOiNkOKAlOKAlOmAieWumumkkOWOheWQjuaMieS6uuaVsC/ml7bmrrUv6aKE566XL+WcuuWQiC/lv4zlj6PphY3oj5zljZXvvIzlh6DojaTlh6DntKDkuIDmrKHphY3pvZDjgIIKPiB2MS4xLjAg5paw5aKe77ya5Y+j56KR5LiA6Ie05oCn6K+E57qnK+agt+acrOmHj+mXqOanm++8iOivhuegtOWIt+WIhuW6l++8ie+8m+aOqOiNkOWNoeWKoOi3neemuy/lpLjouKnng63or40v6ZSZ5bOw5Yiw5bqX5o+Q6YaS77yb55So6aSQ6K6w5b+G5Y2H57qn5Li65Liq5Lq657qi6buR5qac77yb6KGlIEZBUSDkuI7pmY3nuqfpgLvovpHjgIIKPiB2MS4xLjEg5paw5aKe77ya5ZCQ5qe95YiG57qn4oCU4oCU6K+E6K665Yy65ZCQ5qe95YiGIuehrOS8pC/lj6/pgb8i5Lik57qn77yM56Gs5Lyk55u05o6l6YG/6Zu344CB5Y+v6YG/55qE57uZ6ZSZ5bOw5YyW6Kej5Yqe5rOV77yb6Leo5bmz5Y+w5a+55bqX5YWI56Gu6K6k5piv5ZCM5LiA5a625YiG5bqX5YaN5ZCI5bm26K+E5YiG44CCCgojIyDmgI7kuYjnlKgKCuaKiiBgU0tJTEwubWRgIOWvvOWFpeaUr+aMgSBTa2lsbCDnmoQgQUkg5a6i5oi356uv77yM54S25ZCO6K+077yaCgo+IOWNl+Wxsei/mei+ue+8jDTkuKrkurrvvIzmg7PlkIPlt53oj5zvvIzkurrlnYcxMjDlt6blj7MKCuS/oeaBr+S4jeWFqOS5n+ayoeWFs+ezu+KAlOKAlOe8uuWVpeaIkeS4gOasoemXruWFqO+8jOS4jeaMpOeJmeiGj+OAggoKIyMg5bel5L2c5rWB56iLCgpgYGAK5L+h5oGv5pS26ZuG77yI5Zyw5Z2AL+S6uuaVsC/oj5zns7sv5Lq65Z2HL+WcuuaZr++8ieKGkiDmib7ppJDljoUg4oaSIOaOqOiNkDMtNeWutiDihpIg6aKE5a6a5Y2P5YqpIOKGkiDngrnoj5zmjqjojZAKYGBgCgojIyDmlbDmja7mupAKCnwg5Zy65pmvIHwg5pWw5o2u5rqQIHwg6K+05piOIHwKfC0tLS0tLXwtLS0tLS0tLXwtLS0tLS18Cnwg5Zu95YaFIHwg6auY5b635Zyw5Zu+5a6Y5pa5IE1DUCB8IOWFjei0ueeUs+ivtyBrZXnvvJpodHRwczovL2xicy5hbWFwLmNvbS8gfAp8IOa1t+WkliB8IFllbHAgLyBHb29nbGUgTWFwc++8iEhhc0RhdGEg5omY566h77yJIHwg5YWN6LS55rOo5YaM77yM5q+P5pyIIDEwMDAg5YWN6LS5IGNyZWRpdHMgfAp8IOmDveayoemFjSB8IOiBlOe9keaQnOWkp+S8l+eCueivhCB8IOS5n+iDveeUqO+8jOS4jee8luaVsOaNriB8CgpNQ1Ag6YWN572u6KeBIGBhZ2VudHMvb3BlbmFpLnlhbWxg44CCCgojIyDorr7orqHopoHngrkKCi0gKirpooTnrpfmmK/nuqLnur8qKu+8mui2hemihOeul+eahOW/hemhu+aYjuehruagh+azqAotICoq5LiN57yW5pWw5o2uKirvvJror4TliIbkurrlnYfmn6XkuI3liLDlsLHmmI7or7TvvIzkuI3orrjnvJYKLSAqKumihOWumuWPquWNj+WKqeS4jeS7o+WKsyoq77ya57uZ6K+d5pyv44CB57uZ5YWl5Y+j44CB57uZ5o+Q6YaS77yM5LiN56Kw5LiL5Y2VCi0g5Lq65pWwIOKJpTYg6Ieq5Yqo6Kem5Y+R5YyF6Ze05o+Q6YaS77yb4omlOCDmj5DphpLmj5DliY0gMS0yIOWkqeiuogoKIyMg56ue5ZOB5beu5byCCgrnnIvov4cgU2tpbGxIdWIg5LiK55qE5ZCM57G7IHNraWxs77yI5bCP57qi5LmmK+eCueivhOS6pOWPiemqjOivgeOAgeeCueivhOafpeivouOAgee+jumjn+aOqOiNkO+8ie+8jOWug+S7rOWkmuaYr+WNleeCueafpeivouOAguWQg+mlreS4jei4qembt+WBmueahOaYryoq5YWo6ZO+6LevKirvvJrkv6Hmga/mlLbpm4Yg4oaSIOaOqOiNkCDihpIg6aKE5a6a77yM5LiA5qyh6Zeu5YWo44CB5b2T5Zy65ouN5p2/44CCCgojIyDmlofku7YKCmBgYArilJzilIDilIAgU0tJTEwubWQgICAgICAgICAgICMgU2tpbGwg5a6a5LmJCuKUnOKUgOKUgCBhZ2VudHMvb3BlbmFpLnlhbWwgIyBBZ2VudCDphY3nva7vvIjlkKsgTUNQIOivtOaYju+8iQrilJTilIDilIAgaWNvbi5wbmcgICAgICAgICAgICMg5Zu+5qCHCmBgYAoKIyMgTGljZW5zZQoKTUlUCg==
+# 吃饭不踩雷 🍚
+
+> 不知道吃啥？怕踩雷？专治"随便"和选择困难症。
+
+免费选饭助手。从"这附近有啥吃的"到"订好位子"一条龙：告诉我地址、人数、菜系、人均预算，我给你推荐 3-5 家不踩雷的餐厅，附预定话术，选定后还能按你的用餐需求配好菜单。
+
+> v1.0.1 新增：小红书探店交叉验证——搜餐厅名读笔记+评论区，加权到各平台评分里再推荐。
+> v1.0.2 新增：用餐记忆——记住你最近 5 次吃了啥、评价如何，下次主动追反馈，越用越懂你。
+> v1.0.3 新增：使用时机声明——用户找饭店/找吃的类需求，agent 默认优先用本 skill，不再随口推荐。
+> v1.0.4 新增：点菜推荐——选定餐厅后按人数/时段/预算/场合/忌口配菜单，几荤几素一次配齐。
+> v1.1.0 新增：口碑一致性评级+样本量门槛（识破刷分店）；推荐卡加距离/夸踩热词/错峰到店提醒；用餐记忆升级为个人红黑榜；补 FAQ 与降级逻辑。
+> v1.1.1 新增：吐槽分级——评论区吐槽分"硬伤/可避"两级，硬伤直接避雷、可避的给错峰化解办法；跨平台对店先确认是同一家分店再合并评分。
+> v1.1.2 新增：营业时间核对——推荐卡标注每家店的营业时间，已打烊/快打烊的店醒目标注并降权，别白跑一趟。
+
+## 怎么用
+
+把 `SKILL.md` 导入支持 Skill 的 AI 客户端，然后说：
+
+> 南山这边，4个人，想吃川菜，人均120左右
+
+信息不全也没关系——缺啥我一次问全，不挤牙膏。
+
+## 工作流程
+
+```
+信息收集（地址/人数/菜系/人均/场景）→ 找餐厅 → 推荐3-5家 → 预定协助 → 点菜推荐
+```
+
+## 数据源
+
+| 场景 | 数据源 | 说明 |
+|------|--------|------|
+| 国内 | 高德地图官方 MCP | 免费申请 key：https://lbs.amap.com/ |
+| 海外 | Yelp / Google Maps（HasData 托管） | 免费注册，每月 1000 免费 credits |
+| 都没配 | 联网搜大众点评 | 也能用，不编数据 |
+
+MCP 配置见 `agents/openai.yaml`。
+
+## 设计要点
+
+- **预算是红线**：超预算的必须明确标注
+- **不编数据**：评分人均查不到就明说，不许编
+- **预定只协助不代劳**：给话术、给入口、给提醒，不碰下单
+- 人数 ≥6 自动触发包间提醒；≥8 提醒提前 1-2 天订
+
+## 竞品差异
+
+看过 SkillHub 上的同类 skill（小红书+点评交叉验证、点评查询、美食推荐），它们多是单点查询。吃饭不踩雷做的是**全链路**：信息收集 → 推荐 → 预定，一次问全、当场拍板。
+
+## 文件
+
+```
+├── SKILL.md           # Skill 定义
+├── agents/openai.yaml # Agent 配置（含 MCP 说明）
+└── icon.png           # 图标
+```
+
+## License
+
+MIT
